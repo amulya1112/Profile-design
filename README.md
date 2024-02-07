@@ -1,3 +1,4 @@
+![logo](https://github.com/amulya1112/Profile-design/blob/main/IMG1.avif) 
 <h1 align="center">Hi 👋, I'm Amulya Srivastava</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
