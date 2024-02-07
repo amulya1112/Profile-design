@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Amulya Srivastava</h1>
 <h3 align="center">A passionate Frontend developer from India</h3>
 
-<img align="right" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fvectors%2Fweb-developer&psig=AOvVaw2sbjN62oaTJMvklRWZT8Kh&ust=1707411028432000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIC63PDXmYQDFQAAAAAdAAAAABAE">
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amulya1112&label=Profile%20views&color=0e75b6&style=flat" alt="amulya1112" /> </p>
 
 - 🌱 I’m currently learning **React JS**
